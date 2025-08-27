@@ -1,0 +1,26 @@
+Room Number ,Total Unit Number ,Departmental Landed Cost ,Individual Landed Cost ,Retail Price ,Marker Quantity
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+,0,0,0,0,0
+"The ""Total Unit Number"" reflects the property room count + 10%, rounded up to the nearest multiple of 25. The collateral is manufactured in packs of 25. 
+
+The cost for Departmental and Individual collateral differs due to the price of markers. We send 20 markers for every 100 units. 
+
+The ""Retail Price"" is what we charge customers. ""Departmental Landed Cost"" and ""Indivual Landed Cost"" reflect wholesale prices plus shipping, taxes, etc. ",,,,,
